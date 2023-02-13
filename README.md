@@ -1,7 +1,7 @@
 
 # Project Title
 
-Love Calaculator to calculate love and feedback
+Daily javascript practise and solve daily challenges using Javascript
 ## Authors
 
 - [Sameeksha Purwar](https://github.com/sameeksha-purwar)
